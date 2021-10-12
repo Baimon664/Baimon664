@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baimon664&layout=compact)
-
 <!--
 **Baimon664/Baimon664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
